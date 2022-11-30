@@ -1,6 +1,8 @@
 # Request Bot
 Request bot allows server owners to keep their "request" channels organized. Whether you get 10, 100, or 1,000 requests by your community, request bot keeps requests inside an embed.  
 
+
+
 ## Prefix: `!`
 
 ## Add Bot: 
@@ -31,7 +33,7 @@ There are three commands you need to use to setup Request bot. You can also have
 
 `/edit # <message>` command allows an admin to overwrite a specific request that currently exists. (ex: `/edit 3 my new request`)
 
-`/clear #` command allows an admin to clear a specified amount of messages in the channel.
+`/clear #` command allows an admin to clear a specified amount of messages in the channel. Requires `manage messages` perms.
 
 ## User Command
 `/request` is the slash command that your community will use to make requests. (ex: `/request More features please`)
