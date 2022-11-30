@@ -1,7 +1,7 @@
 # Request Bot
 Request bot allows server owners to keep their "request" channels organized. Whether you get 10, 100, or 1,000 requests by your community, request bot keeps requests inside an embed.  
 
-
+![IMG_3467](https://user-images.githubusercontent.com/60682584/204779336-424c09c4-274e-40df-adeb-84f5901a8be6.PNG)
 
 ## Prefix: `!`
 
