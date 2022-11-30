@@ -29,7 +29,9 @@ There are three commands you need to use to setup Request bot. You can also have
 ## Admin Commands:
 `/unrequest #` command allows an admin to remove a specific request from the embed list. (ex: `/unrequest 3`)
 
-`/edit # <message>` command allows the admin to overwrite a specific request that currently exists. (ex: `/edit 3 my new request`)
+`/edit # <message>` command allows an admin to overwrite a specific request that currently exists. (ex: `/edit 3 my new request`)
+
+`/clear #` command allows an admin to clear a specified amount of messages in the channel.
 
 ## User Command
 `/request` is the slash command that your community will use to make requests. (ex: `/request More features please`)
